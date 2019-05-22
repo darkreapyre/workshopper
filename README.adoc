@@ -61,11 +61,6 @@ NOTE: You should now be able to see the workshop on http://localhost:8080
 +
 TIP: Create a shortened *URL* for easier reference to the workshop at http://bit.ly[bitly].
 
-
-----
-
-----
-
 == Local Testing
 To test any changes you have made locally make sure you have docker installed you are in this repository root.
 
