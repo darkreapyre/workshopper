@@ -25,11 +25,11 @@ Parameters:
   # for autoscaling
   MinContainers:
     Type: Number
-    Default: 2
+    Default: 4
   # for autoscaling
   MaxContainers:
     Type: Number
-    Default: 3
+    Default: 5
   # target CPU utilization (%)
   AutoScalingTargetValue:
     Type: Number
